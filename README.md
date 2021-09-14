@@ -1,5 +1,5 @@
 ### Safari Wallpapers
-
+s,s,s,s,ss,s,ss
 All these images can be found at the following directory on macOS Big Sur (Safari 14) and higher:
 
     /Applications/Safari.app/Contents/Resources/Background Images
